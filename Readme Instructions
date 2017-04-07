@@ -7,4 +7,4 @@ Process:
 1. Prepare the data
 2. select a model for classification.
 3. Use validation methods for prediction - We use 10-fold cross-validation method and we split the data into 80% for training and 20% for validation.
-4. Select the best model by calculating the accuracy score of each models.(We have taken various Linear and non-linear models i.e, Logisitic regression, Linear Discriminant Analysis,KNN, CART, SVM)
+4. Select the best model by calculating the accuracy score of each models.(We have taken various Linear and non-linear models i.e, Logisitic regression, Linear Discriminant Analysis,KNN, CART, NB, SVM)
