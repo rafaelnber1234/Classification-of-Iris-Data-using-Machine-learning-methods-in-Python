@@ -1,4 +1,4 @@
-# Classification-of-Iris-Data-using-Supervised-Learning developed in Python.
+# Classification-of-Iris-Data-using-Machine-learning methods developed in Python.
 
 
 
